@@ -7,7 +7,7 @@ This is a new GitHub page.
 
 This is a check list.
 
-[x] Code Snippet Rendering
+[x] Code Snippet Rendering  
 [ ] Create New Pages
 
 ## Coding
