@@ -2,6 +2,14 @@
 
 This is a new GitHub page.
 
+
+## Check List 
+
+This is a check list.
+
+[x] Code Snippet Rendering
+[ ] Create New Pages
+
 ## Coding
 
 This is a code snippet 
