@@ -5,5 +5,5 @@ description: >
     <br><br>
     Second Description 
     <br><br>
-    <a href="https://www.linkedin.com/in/emily-elias-043095ba/" style="background-color:#FFFF00">View my LinkedIn Profile</a>
+    <a href="https://www.linkedin.com/in/emily-elias-043095ba/" style="color:#FFFF00">View my LinkedIn Profile</a>
 theme: jekyll-theme-cayman
