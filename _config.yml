@@ -1,5 +1,9 @@
 title: Emily Elias # website title here
 # logo:
-description:
+description: >
+    First Description
+    <br><br>
+    Second Description 
+    <br><br>
     <a href="https://www.linkedin.com/in/emily-elias-043095ba/">View my LinkedIn Profile</a>
 theme: jekyll-theme-cayman
