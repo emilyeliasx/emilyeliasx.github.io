@@ -1,9 +1,29 @@
-title: Emily Elias # website title here
-# logo:
-description: >
-    First Description
-    <br><br>
-    Second Description 
-    <br><br>
-    <a href="https://www.linkedin.com/in/emily-elias-043095ba/" style="color:#FFFF00">View my LinkedIn Profile</a>
+# Site settings
+title: Emily Elias
+twitter_username: emily_elias_
+name: Emily Elias
+
+# Links to appear in nav bar
+primarylinks:
+- title: GitHub
+  url: https://github.com/emilyeliasx
+
+# Work Experience
+education:
+- level: Bachelor of Science (B.Sc.)
+  date: 2017
+  subject: Internet Computing and Systems Administration
+  school: Aberystwyth University
+
+# List of interesting GitHub repo/projects to include
+gihub:
+- emilyeliasx/newGitHub
+
+# # logo:
+# description: >
+#     First Description
+#     <br><br>
+#     Second Description 
+#     <br><br>
+#     <a href="https://www.linkedin.com/in/emily-elias-043095ba/" style="color:#FFFF00">View my LinkedIn Profile</a>
 theme: jekyll-theme-cayman
