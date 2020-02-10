@@ -8,8 +8,8 @@ This is a new GitHub page.
 This is a check list.
 
 [x] Code Snippet Rendering  
-[ ] Look into rendering Jupyter Notebooks on GitHub Pages/nbviewer - http://ipython.org/ipython-doc/1/interactive/nbconvert.html  
-[ ] Create New Project Page  
+[x] Look into rendering Jupyter Notebooks on GitHub Pages/nbviewer - http://ipython.org/ipython-doc/1/interactive/nbconvert.html  
+[x] Create New Project Page  
 [ ] Create New CV Page  
 [ ] Look into Kaggle challenges  
 [ ] Look into tidying up code - using functions, etc.
