@@ -27,3 +27,6 @@ This is a code snippet
                 def foo():
                     if not bar:
                     return True
+                    
+ ## Link to Page
+ <a href="https://github.com/emilyeliasx/emilyeliasx.github.io/blob/emilyeliasx-projects/projects.md">Projects</a>
