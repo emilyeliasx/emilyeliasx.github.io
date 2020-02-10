@@ -17,7 +17,7 @@ This is a check list.
 [ ] Random Forest Project/Notebook  
 [ ] Gradient Boosted Esembles Project/Notebook  
 [ ] SQL Skills Project/Notebook  
-[ ] Experience using Python, R, SparkML  
+[ ] Experience using Python, R, SparkML, PySpark
 [ ] Experience with TensorFlow and/or PyTorch (project/notebook)  
 
 ## Coding
