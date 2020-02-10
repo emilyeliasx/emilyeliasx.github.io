@@ -11,6 +11,7 @@ This is a check list.
 [ ] Look into rendering Jupyter Notebooks on GitHub Pages/nbviewer - http://ipython.org/ipython-doc/1/interactive/nbconvert.html  
 [ ] Create New Project Page  
 [ ] Create New CV Page  
+[ ] Look into Kaggle challenges
 [ ] GLM Project/Notebook  
 [ ] Random Forest Project/Notebook  
 [ ] Gradient Boosted Esembles Project/Notebook  
