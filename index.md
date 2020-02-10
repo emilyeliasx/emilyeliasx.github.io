@@ -29,4 +29,4 @@ This is a code snippet
                     return True
                     
  ## Link to Page
- <a href="https://emilyeliasx.github.io/projects.md">Projects</a>
+ <a href="https://github.com/emilyeliasx/emilyeliasx.github.io/blob/emilyeliasx-projects/projects.md">Projects</a>
