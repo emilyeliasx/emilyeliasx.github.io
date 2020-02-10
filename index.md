@@ -12,6 +12,7 @@ This is a check list.
 [ ] Create New Project Page  
 [ ] Create New CV Page  
 [ ] Look into Kaggle challenges
+[ ] Look into tidying up code - using functions, etc.
 [ ] GLM Project/Notebook  
 [ ] Random Forest Project/Notebook  
 [ ] Gradient Boosted Esembles Project/Notebook  
