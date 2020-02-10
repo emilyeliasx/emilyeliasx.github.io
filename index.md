@@ -28,6 +28,7 @@ This is a code snippet
                     if not bar:
                     return True
                     
+ 
  ## Link to Page  
- <a href="cv.html">CV</a>
+ <a href="cv.html">CV</a>  
  <a href="projects.html">Projects</a>
