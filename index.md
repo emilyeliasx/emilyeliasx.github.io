@@ -1,4 +1,4 @@
-# New Heading
+# Index Page
 
 This is a new GitHub page.
 
